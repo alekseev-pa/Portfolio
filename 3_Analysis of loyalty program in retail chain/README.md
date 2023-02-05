@@ -9,7 +9,7 @@ Evaluate the results of the loyalty program implementation, understand how the l
 - analyze how the current loyalty program worked;
 - test hypotheses;
 
-## Skills and Tools
+### Skills and Tools
 
 - **python**
 - **Matplotlib**
@@ -17,7 +17,7 @@ Evaluate the results of the loyalty program implementation, understand how the l
 - **Plotly**
 - **A/B tests**
 
-## Concluison
+### Concluison
 
 The effectiveness of the loyalty program was evaluated by two indicators: the average check per customer and the average number of purchases per customer.
 Results of A/B test analysis showed for the two selected parameters showed its inefficiency.
