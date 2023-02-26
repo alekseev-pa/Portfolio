@@ -1,9 +1,9 @@
 # Analysis of loyalty program in retail chain
 
 [HTML (en)](https://github.com/alekseev-pa/Portfolio/blob/main/3_Analysis%20of%20loyalty%20program%20in%20retail%20chain/Analysis%20of%20retail%20program%20(en).html)
-[ipynb (en)]( (https://github.com/alekseev-pa/Portfolio/blob/main/3_Analysis%20of%20loyalty%20program%20in%20retail%20chain/Analysis%20of%20retail%20program%20(en).ipynb)
-[HTML (ru)]( https://github.com/alekseev-pa/Portfolio/blob/main/3_Analysis%20of%20loyalty%20program%20in%20retail%20chain/Analysis%20of%20retail%20program%20(ru).html)
-[ipynb (ru)]( (https://github.com/alekseev-pa/Portfolio/blob/main/3_Analysis%20of%20loyalty%20program%20in%20retail%20chain/Analysis%20of%20retail%20program%20(ru).ipynb)
+[ipynb (en)](https://github.com/alekseev-pa/Portfolio/blob/main/3_Analysis%20of%20loyalty%20program%20in%20retail%20chain/Analysis%20of%20retail%20program%20(en).ipynb)
+[HTML (ru)](https://github.com/alekseev-pa/Portfolio/blob/main/3_Analysis%20of%20loyalty%20program%20in%20retail%20chain/Analysis%20of%20retail%20program%20(ru).html)
+[ipynb (ru)](https://github.com/alekseev-pa/Portfolio/blob/main/3_Analysis%20of%20loyalty%20program%20in%20retail%20chain/Analysis%20of%20retail%20program%20(ru).ipynb)
 
 
 ### Purpose:
